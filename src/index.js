@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+console.log("hi mom")
 
 function Square(props) {
   return (
