@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## THE GAME
+
+welcome to the one and only tic-tac-toe game. rules are the same as a regular tic-tac-toe game. in this game, you will have time travel capabilities where you can go to past moves and restart the game from there.
+
 ## Available Scripts
 
 In the project directory, you can run:
