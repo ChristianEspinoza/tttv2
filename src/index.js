@@ -64,6 +64,7 @@ class Board extends React.Component {
   }
 
   render() {
+    console.log("party on Wayne")
     const status = 'Next player: ' + (this.state.xIsNext ? 'X' : 'O');
 
     return (
